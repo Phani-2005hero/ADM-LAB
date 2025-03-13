@@ -11,3 +11,5 @@
 #ADM LAB-05 :- https://github.com/Phani-2005hero/ADM-LAB/blob/main/ADM_lab_05.ipynb
 
 #ADM LAB-06:- https://github.com/Phani-2005hero/ADM-LAB/blob/main/ADM_Lab06.ipynb
+
+#ADM LAB-07:- https://github.com/Phani-2005hero/ADM-LAB/blob/main/Adm_Lab_07%20(1).ipynb
