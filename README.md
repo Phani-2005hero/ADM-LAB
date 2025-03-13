@@ -7,3 +7,6 @@
 #ADM LAB-04:- https://github.com/Phani-2005hero/ADM-LAB/blob/main/ADM_4%20(1).ipynb
 
 #ADM LAB TEST:-https://github.com/Phani-2005hero/ADM-LAB/blob/main/ADM%20LAB%20EXAM.ipynb
+
+# ADM LAB-05 :- https://github.com/Phani-2005hero/ADM-LAB/blob/main/ADM_lab_05.ipynb
+
